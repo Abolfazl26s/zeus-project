@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zeus-project/static/css/main.c5d97991.chunk.css",
+    "main.js": "/zeus-project/static/js/main.b2fae786.chunk.js",
+    "main.js.map": "/zeus-project/static/js/main.b2fae786.chunk.js.map",
+    "runtime-main.js": "/zeus-project/static/js/runtime-main.1e55ec05.js",
+    "runtime-main.js.map": "/zeus-project/static/js/runtime-main.1e55ec05.js.map",
+    "static/js/2.169c729b.chunk.js": "/zeus-project/static/js/2.169c729b.chunk.js",
+    "static/js/2.169c729b.chunk.js.map": "/zeus-project/static/js/2.169c729b.chunk.js.map",
+    "index.html": "/zeus-project/index.html",
+    "precache-manifest.5bbbb897da9e0aafafb5934a5c6e0398.js": "/zeus-project/precache-manifest.5bbbb897da9e0aafafb5934a5c6e0398.js",
+    "service-worker.js": "/zeus-project/service-worker.js",
+    "static/css/main.c5d97991.chunk.css.map": "/zeus-project/static/css/main.c5d97991.chunk.css.map",
+    "static/js/2.169c729b.chunk.js.LICENSE.txt": "/zeus-project/static/js/2.169c729b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e55ec05.js",
+    "static/js/2.169c729b.chunk.js",
+    "static/css/main.c5d97991.chunk.css",
+    "static/js/main.b2fae786.chunk.js"
+  ]
+}
