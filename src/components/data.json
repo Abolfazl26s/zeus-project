@@ -1,0 +1,142 @@
+{
+    "logoTitle": "Zeus",
+    "logoImg": "https://i.ibb.co/CWnJ4fQ/logo-ft.png",
+    "links": {
+        "facbook": "",
+        "instagram": ""
+    },
+    
+    "sections": [
+        {
+            "items":[
+                {
+                    "title": "1 عنوان",
+                    "type": "p",
+                    "subtitle": "1لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+                },
+                {
+                    "title": "2 عنوان",
+                    "type": "p",
+                    "subtitle": "2لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است" 
+                },
+                {
+                    "title": "3 عنوان",
+                    "type": "p",
+                    "subtitle": "3لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+                }
+            ]
+        },
+        {
+            "title": "خدمات ما",
+            "items": [
+                {
+                "title": "1 عنوان",
+                "type": "p",
+                "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+            },
+            {
+                "title": "2 عنوان",
+                "type": "p",
+                "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است" 
+            },
+            {
+                "title": "3 عنوان",
+                "type": "p",
+                "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+            }
+        ]
+        },
+
+        {
+            "title": "نمونه کارها",
+            "items": [{
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/X5YLPtj/01.jpg",
+                        "title": "تصویر 1"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/D5xFj6k/02.jpg",
+                        "title": "تصویر 2"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/mtd6vC2/03.jpg",
+                        "title": "تصویر 3"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/gzk3JFq/04.jpg",
+                        "title": "تصویر 4"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/RShFPWq/05.jpg",
+                        "title": "تصویر 5"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/mtd6vC2/03.jpg",
+                        "title": "تصویر 6"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "گالری محصولات",
+            "items": [{
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/X3F4Mqn/product02.jpg",
+                        "title": "تصویر 1"
+                    }
+                },
+                {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/V3n9vWR/product03.jpg",
+                        "title": "تصویر 2"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/JxqT40V/product01.jpg",
+                        "title": "تصویر 3"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/V3n9vWR/product03.jpg",
+                        "title": "تصویر 4"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/JxqT40V/product01.jpg",
+                        "title": "تصویر 5"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/V3n9vWR/product03.jpg",
+                        "title": "تصویر 6"
+                    }
+                }, {
+                    "type": "Card",
+                    "content": {
+                        "image": "https://i.ibb.co/X3F4Mqn/product02.jpg",
+                        "title": "تصویر 7"
+                    }
+                }
+            ]
+        }
+
+    ]
+}
